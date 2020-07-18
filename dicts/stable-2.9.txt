@@ -3836,6 +3836,7 @@ dhcpv6-stateless
 dhparam
 diagnostics_profile
 dialect
+diff
 diff_against
 diff_ignore_lines
 diff_match
